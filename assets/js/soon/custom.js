@@ -6,7 +6,11 @@ COMMING SOON PAGE
     * Set your date here  (YEAR, MONTH (0 for January/11 for December), DAY, HOUR, MINUTE, SECOND)
     * according to the GMT+0 Timezone
     **/
+<<<<<<< HEAD
     var launch = new Date(2015, 01, 23, 5, 00);
+=======
+    var launch = new Date(2015, 1, 22, 5, 00);
+>>>>>>> origin/gh-pages
     /**
     * The script
     **/
